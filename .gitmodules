@@ -1,0 +1,3 @@
+[submodule "vendor/ghmattimysql"]
+	path = vendor/ghmattimysql
+	url = https://github.com/Faroeste-Roleplay/ghmattimysql.git
