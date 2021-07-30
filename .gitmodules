@@ -1,3 +1,6 @@
 [submodule "vendor/ghmattimysql"]
 	path = vendor/ghmattimysql
 	url = https://github.com/Faroeste-Roleplay/ghmattimysql.git
+[submodule "vendor/cfx-server-data"]
+	path = vendor/cfx-server-data
+	url = https://github.com/Faroeste-Roleplay/cfx-server-data.git
